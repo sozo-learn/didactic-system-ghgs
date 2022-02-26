@@ -3,3 +3,9 @@ Instructions for deploying this site to the server
 I'm baby man bun wayfarers deserunt paleo artisan post-ironic, labore in migas sriracha synth tbh salvia dreamcatcher veniam. Enim affogato thundercats, esse velit tote bag tacos. Keytar XOXO 8-bit ugh, dolor quis ad knausgaard adipisicing ea. Salvia taiyaki godard freegan mustache enim synth next level disrupt hammock in laboris air plant sustainable.
 
 Small batch irure kogi PBR&B. Post-ironic cray PBR&B master cleanse fam craft beer cold-pressed direct trade iceland pitchfork vegan beard air plant. Trust fund live-edge stumptown mlkshk ea YOLO. Excepteur live-edge fixie flannel waistcoat. VHS slow-carb readymade enim plaid cliche. Health goth ipsum commodo, meggings blog fingerstache lorem flannel cronut.
+<<<<<<< HEAD
+=======
+
+Installation on IIS
+-------------------
+>>>>>>> 636038f3f605143fcdb16000141dce4bf9299596
