@@ -6,5 +6,3 @@ Small batch irure kogi PBR&B. Post-ironic cray PBR&B master cleanse fam craft be
 
 Installation on IIS
 -------------------
-
-Content goes here
